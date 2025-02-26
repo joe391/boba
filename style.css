@@ -1,0 +1,12 @@
+body{
+    padding: 30px;
+    text-align: center;
+    background-color: rgb(101, 214, 255);
+}
+h1{
+    color:rgb(255, 0, 0);
+}
+img {
+    width: 300px;
+    height: 400px;
+}
